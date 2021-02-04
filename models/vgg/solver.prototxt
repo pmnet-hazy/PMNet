@@ -1,0 +1,20 @@
+net: "models/VGG/VGG19.prototxt"
+#test_iter: 1000
+#test_interval: 1000
+base_lr: 0.0001
+lr_policy: "step"
+gamma: 0.001
+power:0.75
+stepsize: 20000
+display: 100
+max_iter: 300000
+momentum: 0.9
+weight_decay: 0.0005
+snapshot: 1000
+type:"Adam"
+snapshot_prefix: "models/VGG/PMsnapshot/Vggnet_train"
+solver_mode: GPU
+
+
+
+
