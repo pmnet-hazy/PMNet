@@ -1,8 +1,8 @@
 ## PMNET
 
-This kit is a good start for helping researchers who are interested in our work. Here, we provide resnet and vgg modules based on CAFFE as well as some scripts for images preparation and features extraction. It is really interesting to see reaserchers could try different combinations between vgg and resnet.
+This kit is a good start for helping researchers who are interested in our work. Here, we provide resnet and vgg modules based on CAFFE as well as some scripts for images preparation and features extraction. It is really interesting to see researchers could try different combinations between vgg and resnet.
 
-However, we suggest if it is possible, reserchers should re-implement this code by pytorch or tensorflow as CAFFE is not a good tool for further study. 
+However, we suggest if it is possible, researchers should re-implement this code by pytorch or tensorflow as CAFFE is not a good tool for further study.
 
 ### Cite:
 
