@@ -1,12 +1,10 @@
 ## PMNET
 
- is http://cic.tju.edu.cn/faculty/likun/projects/PM2.5
-
 This kit is a good start for helping researchers who are interested in our work. Here, we provide resnet and vgg modules based on CAFFE as well as some scripts for images preparation and features extraction. It is really interesting to see researchers could try different combinations between vgg and resnet.
 
 However, we suggest if it is possible, researchers should re-implement this code by pytorch or tensorflow as CAFFE is not a good tool for further study.
 
-For dataset and more details, please refer to our (project webpage.)[http://cic.tju.edu.cn/faculty/likun/projects/PM2.5]
+For dataset and more details, please refer to our [project webpage](http://cic.tju.edu.cn/faculty/likun/projects/PM2.5).
 
 ### Cite:
 
